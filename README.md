@@ -31,7 +31,7 @@ This project is a full-stack user authentication system built using Node.js, Exp
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/user-authentication-system.git
+    git clone https://github.com/golu7059/Authentication_JWT.git
     ```
 
 2. Navigate to the project directory:
@@ -93,18 +93,15 @@ user-authentication-system/
 │   │   ├── authRoutes.js
 │   │   └── userRoutes.js
 │   ├── .env
+|   |-- app.js
 │   ├── server.js
 │   └── package.json
 │
 ├── frontend/
-│   ├── css/
-│   │   └── styles.css
-│   ├── js/
-│   │   └── scripts.js
+│   |── styles.css
+│   │── scripts.js
 │   ├── index.html
-│   ├── profile.html
-│   ├── package.json
-│   └── README.md
+│   ├── profile.html  
 │
 └── README.md
 ```
